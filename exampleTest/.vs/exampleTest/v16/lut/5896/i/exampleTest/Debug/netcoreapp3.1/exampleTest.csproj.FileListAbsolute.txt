@@ -1,0 +1,11 @@
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\b\exampleTest\Debug\netcoreapp3.1\exampleTest.exe
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\b\exampleTest\Debug\netcoreapp3.1\exampleTest.deps.json
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\b\exampleTest\Debug\netcoreapp3.1\exampleTest.runtimeconfig.json
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\b\exampleTest\Debug\netcoreapp3.1\exampleTest.runtimeconfig.dev.json
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\b\exampleTest\Debug\netcoreapp3.1\exampleTest.dll
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\i\exampleTest\Debug\netcoreapp3.1\exampleTest.csprojAssemblyReference.cache
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\i\exampleTest\Debug\netcoreapp3.1\exampleTest.AssemblyInfoInputs.cache
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\i\exampleTest\Debug\netcoreapp3.1\exampleTest.AssemblyInfo.cs
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\i\exampleTest\Debug\netcoreapp3.1\exampleTest.csproj.CopyComplete
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\i\exampleTest\Debug\netcoreapp3.1\exampleTest.dll
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\i\exampleTest\Debug\netcoreapp3.1\exampleTest.genruntimeconfig.cache
