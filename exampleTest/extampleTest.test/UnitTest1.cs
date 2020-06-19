@@ -16,6 +16,7 @@ namespace extampleTest.test
             Assert.AreEqual(0, result);
 
         }
+
         [TestMethod]
         public void return_same_number() {
 
@@ -24,6 +25,7 @@ namespace extampleTest.test
 
             Assert.AreEqual(1, result);
         }
+
         [TestMethod]
         public void return_result_suma() {
 
@@ -31,6 +33,14 @@ namespace extampleTest.test
             var result = calculator.Add("1,2");
 
             Assert.AreEqual(3, result);
+        }
+
+        [TestMethod]
+        public void return_suma_parameters()
+        {
+            var calculator = new StringCalculator();
+            var result = calculator.Add("1,2,3,4,5");
+            Assert.AreEqual(15, result);
         }
     }
      

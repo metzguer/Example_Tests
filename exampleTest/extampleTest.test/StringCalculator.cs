@@ -11,7 +11,7 @@ namespace extampleTest.test
     public class StringCalculator
     {
 
-        public object Add(string value)
+        public int Add(string value)
         {
             if (value.Length == 0) return 0;
             if (value.Length == 1) return Int32.Parse(value);
@@ -19,7 +19,18 @@ namespace extampleTest.test
                 var arr = value.Split(',');
                 return int.Parse(arr[0]) + int.Parse(arr[1]); 
             }
-            return value;
+            if (value.Length > 3)
+            {
+                var suma = 0;
+                var arr = value.Split(',');
+                foreach (var number in arr) {
+                    suma += int.Parse(number);
+                }
+                return suma;
+            }
+
+            return -1;
+            
         }
          
     }

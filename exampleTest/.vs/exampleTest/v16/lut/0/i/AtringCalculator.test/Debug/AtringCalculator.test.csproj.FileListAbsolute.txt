@@ -1,0 +1,7 @@
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\b\extampleTest.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\b\extampleTest.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\b\extampleTest.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\b\extampleTest.test\bin\Debug\extampleTest.test.dll
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\i\AtringCalculator.test\Debug\AtringCalculator.test.csproj.CoreCompileInputs.cache
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\i\AtringCalculator.test\Debug\AtringCalculator.test.csproj.CopyComplete
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\i\AtringCalculator.test\Debug\extampleTest.test.dll
