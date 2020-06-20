@@ -1,0 +1,8 @@
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\i\LensDistanceTests\Debug\LensDistanceTests.csproj.CoreCompileInputs.cache
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\b\LensDistanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\b\LensDistanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\b\LensDistanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\b\LensDistanceTests\bin\Debug\LensDistanceTests.dll
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\i\LensDistanceTests\Debug\LensDistanceTests.csprojAssemblyReference.cache
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\i\LensDistanceTests\Debug\LensDistanceTests.csproj.CopyComplete
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\i\LensDistanceTests\Debug\LensDistanceTests.dll

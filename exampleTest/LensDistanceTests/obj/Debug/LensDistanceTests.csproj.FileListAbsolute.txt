@@ -1,0 +1,16 @@
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\LensDistanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\LensDistanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\LensDistanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\LensDistanceTests\bin\Debug\LensDistanceTests.dll
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\LensDistanceTests\bin\Debug\LensDistanceTests.pdb
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\LensDistanceTests\bin\Debug\libraryTests.dll
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\LensDistanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\LensDistanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\LensDistanceTests\bin\Debug\libraryTests.pdb
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\LensDistanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\LensDistanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\LensDistanceTests\obj\Debug\LensDistanceTests.csprojAssemblyReference.cache
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\LensDistanceTests\obj\Debug\LensDistanceTests.csproj.CoreCompileInputs.cache
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\LensDistanceTests\obj\Debug\LensDistanceTests.csproj.CopyComplete
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\LensDistanceTests\obj\Debug\LensDistanceTests.dll
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\LensDistanceTests\obj\Debug\LensDistanceTests.pdb

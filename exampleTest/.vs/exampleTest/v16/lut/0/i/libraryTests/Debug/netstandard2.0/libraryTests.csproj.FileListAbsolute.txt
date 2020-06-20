@@ -1,0 +1,8 @@
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\b\libraryTests\Debug\netstandard2.0\libraryTests.deps.json
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\b\libraryTests\Debug\netstandard2.0\libraryTests.dll
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\i\libraryTests\Debug\netstandard2.0\libraryTests.csprojAssemblyReference.cache
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\i\libraryTests\Debug\netstandard2.0\libraryTests.AssemblyInfoInputs.cache
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\i\libraryTests\Debug\netstandard2.0\libraryTests.AssemblyInfo.cs
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\i\libraryTests\Debug\netstandard2.0\libraryTests.csproj.CopyComplete
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\i\libraryTests\Debug\netstandard2.0\libraryTests.dll
+C:\Users\Metzguer\Desktop\C#\exampleTest\exampleTest\.vs\exampleTest\v16\lut\0\i\libraryTests\Debug\netstandard2.0\libraryTests.csproj.CoreCompileInputs.cache
